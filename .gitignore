@@ -1,0 +1,12 @@
+node_modules/
+*~
+.DS_Store
+__pycache__
+out/
+yarn-error.log
+/.idea
+*.iml
+.venv/
+
+# PHP
+composer.lock
